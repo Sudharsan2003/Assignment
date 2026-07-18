@@ -1,0 +1,21 @@
+1) Principles Of Testing
+
+    * Testing show presence of defects not thier absence -> Testing can reveal bug but cannot prove Software error free
+
+    * Exhaustive Testing impossible - > Testing only focus on high-risk areas
+    
+    * Early testing Saves time and Money - > Finding defects in design phase is less expensive 
+
+    * Defects cluster Together - > Some module has more defects
+
+    * The pesticide paradox - > Repeating same test cases finding new defects
+
+    * Testing is context-dependent - > Testing differs based on application type (eg-> ecommerce, banking, gaming)
+
+    * The absence of errors fallacy - > Software with error free or few defects but it does not matched user requirement
+
+2) Difference Between QA AND QC
+
+OA - > Quality Assurance focus on preventing defects, it follows process oriented approach, it was proactive happen throughout the software development lifecycle and responsible for whole      team
+
+QC - > Quality Control focus on finding defects, it follows product oriented approach, it was reactive happen after development or during testing and mainly done by testers
