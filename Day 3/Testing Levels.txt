@@ -1,0 +1,34 @@
+1 -> Different Levels Of Testing 
+
+1.Unit Testing
+         
+The testing of individual of components or unit code ensure function is correctly working or not
+
+It was done by developers
+
+Goal: To catch the bug early at smallest level before components are integrated 
+
+
+2.Integrated Testing
+
+The process of testing how different modules or components working after the unit testing
+
+It was done by testers
+
+Goal: To verify the data flow correctly between the module and interaction is seamless
+
+3.System Testing
+
+Testing the entire full integrated application as whole
+
+It was done by testers
+
+Goal: To verify that complete the systems meet based on specific requirements
+
+4.Acceptance Testing
+
+It was final stage of testing ensure that system meet the business requirements and user needs
+
+It was done by clients
+
+Goal: To validate the software is ready for deployment and use in real world 
