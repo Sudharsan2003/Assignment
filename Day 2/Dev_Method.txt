@@ -1,0 +1,28 @@
+1 -> Advantages And Disadvantage of Waterfall Model
+
+Advantages of Waterfall Model
+
+Simple and easy to understand – The process is straightforward and well-structured
+Clear documentation – Each phase is documented thoroughly, making maintenance easier.
+Easy to manage – Fixed stages and milestones make project tracking simple.
+Well-defined requirements – Works effectively when project requirements are clear and unlikely to change.
+Suitable for small projects – Ideal for projects with stable and well-understood requirements.
+
+Disadvantages of Waterfall Model
+
+Inflexible to changes – Making changes after a phase is completed is difficult and expensive.
+Late testing – Testing occurs only after development is complete, so defects may be discovered late.
+High risk for complex projects – If requirements are misunderstood, correcting them later can be costly.
+Working software delivered late – The customer does not see a usable product until the end of the development cycle.
+Not suitable for dynamic projects – Projects with frequently changing requirements are better suited to iterative or agile approaches.
+
+
+2 ->  Kanban
+
+Kanban is a visual framework aimed at managing work in progress and maximum efficiency
+
+It works on physical or digital Kanban board it consists of To-Do, In Progress, Testing, Done
+
+Teams restrict how many task can be in single column at once to prevent bottlenecks 
+
+It is continuous and flow-based working process
