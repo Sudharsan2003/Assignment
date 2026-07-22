@@ -1,0 +1,29 @@
+1 -> Test Plan Activities
+
+Defining Objectives -> Establish clear testing objectives aligning overall project goals
+
+Scope Definition -> Determining scope of testing what will be tested and what will be exclude
+
+Strategy And Approach -> Outline test strategy including type of testing
+
+Resource Allocation -> Identifying the necessary resources, tools, environments and budget.
+
+Schedule & Milestones -> Create a detailed testing schedule with defined milestones, dependencies, and timelines 
+
+Risk Assessment and Mitigation -> Identify potential risks to the testing process 
+
+Entry and Exit Criteria -> Define clear criteria for entering and exiting each test phase.
+
+Test Deliverables -> Specify the expected outputs of the testing process, such as test plans, test cases, defect reports, summary reports.
+
+Test Monitoring Activities
+
+Tracking Progress -> Continuously track the progress of testing activities against the planned schedule
+
+Metrics Collection -> Gather data such as defect discovery rate, defect density, and test coverage.
+
+Status Reporting -> Periodically report on the status of testing to stakeholders
+
+Performance Measurement -> Monitor the performance of the software under test, collecting data on response times
+
+Risk Monitoring -> Continuously monitor identified risks and assess the emergence of new risks.
