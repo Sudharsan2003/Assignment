@@ -1,0 +1,55 @@
+1 -> Requirement analysis is the process of gathering, analyzing, documenting, validating, and managing requirement of software system
+
+STEPS IN REQUIREMENT ANALYSIS 
+
+Requirement elicitation 
+
+Collect requirement from stakeholder, customers, and users. Methods include interviews, surveys
+
+Requirement Analysis
+
+Analyze the collected requirements and remove duplicates requirements and check whether document is feasible
+
+Evaluation and Synthesis
+
+Determine the necessary system functions. Understand data flow, system behavior
+
+Requirement Specification
+
+Document all requirements clearly in the Software Requirements Specification document
+
+Requirement Validation
+
+Verify the documented requirements with stakeholders to ensure that the requirements are complete, correct, and achievable.
+
+Requirement Management
+
+Track and manage requirement changes throughout the project lifecycle
+
+2-> Functional requirement of What's app application
+
+* User should able to register using mobile number
+
+* User should to able to verify account using onetimepassword
+
+* User should to able to login
+
+* User should able to update their profile
+
+* User should able to send and receive text message
+
+* User should able to send and receive voice message
+
+* User should able to call through video and voice call
+
+* User should able to create group, add and remove user
+
+* User should able to block account
+
+* User should able to add and remove status
+
+* User should able to share their location
+
+* User should able to pay the money
+
+* User should able to logout 
