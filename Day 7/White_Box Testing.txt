@@ -1,0 +1,53 @@
+1.Advantages of white box testing
+
+Thorough testing -> White box testing is thorough as entire-code and structures are tested
+
+Code Optimization -> Is results in optimization code remove errors and remove extra line code
+
+Early Detection of Defects -> It can start at an earlier stage
+
+Integration with SDLC -> White box testing easily started in SDLC
+
+Detection of complex defects -> Tester can identify defects that cannot identifies by other testing technique
+
+Comprehensive test cases -> Tester can create more effective test cases that cover all paths
+
+Disadvantages of white box testing
+
+Programming Knowledge and Source Code Access -> Tester need to have programming knowledge and access to source code to perform task
+
+Overemphasis on internal workings -> Testers may focus too much on the internal workings of the software and may miss external issues.
+
+Test Case Overhead -> Redesigning code and rewriting code needs test cases to be written again.
+
+Inability to Detect Missing Functionalities -> Missing functionalities cannot be detected as the code that exists is tested.
+
+2.Path Coverage
+
+* Every possible route through the code is checked
+
+* Design test cases corresponding to each independent path
+
+For Example
+
+V(G) = P + 1, where P is the number of predicate nodes in the flow graph
+V(G) = E – N + 2, where E is the number of edges and N is the total number of nodes
+V(G) = Number of non-overlapping regions in the graph
+P1: 1 – 2 – 4 – 7 – 8
+P2: 1 – 2 – 3 – 5 – 7 – 8
+P3: 1 – 2 – 3 – 6 – 7 – 8
+P4: 1 – 2 – 4 – 7 – 1 – . . . – 7 – 8
+
+Multiple Condition Coverage
+
+* All the possible combinations of the possible outcomes of conditions are tested at least once.
+
+For example
+
+READ X, Y
+IF(X == 0 || Y == 0)
+PRINT ‘0’
+TC1: X = 0, Y = 0
+C2: X = 0, Y = 5
+TC3: X = 55, Y = 0
+TC4: X = 55, Y = 5
