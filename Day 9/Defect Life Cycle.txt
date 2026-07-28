@@ -1,0 +1,55 @@
+1. A Defect Status represents the current state of a defect (bug) from the time it is identified until it is fixed and closed. The defect life cycle helps testers and developers track the progress of defects, improve communication, and ensure that all reported issues are resolved systematically.
+
+Different States
+
+1. New 
+  
+    * This is the first status of defect 
+    * When a tester identifies a new bug during testing it is reported and marked as new
+    * The tester records details such as defect description, steps to reproduce, severity, priority, screenshots, and environment.
+    * The defect is waiting for review by the development team.
+
+2. Assigned 
+
+    * After reviewing the defect, the project manager or team lead assigns it to a developer.
+    * The responsibility of fixing the defect is now with the assigned developer.
+    * The status changes from New to Assigned.
+
+3. Open
+
+    * The developer starts analyzing and working on the defect.
+    * If the developer finds the defect invalid or decides to postpone it, the status may change to Rejected or Deferred.
+
+4. Fixed
+
+   * The developer corrects the defect by modifying the source code.
+   * After successful fixing, the status is updated to Fixed.
+   * The corrected build is sent to the testing team for verification.
+
+5.Pending Retest
+
+   * After fixing the bug, the developer provides the updated application to the testing team.
+   * The tester has not yet started verification.
+   * The defect remains in the Pending Retest status until testing begins
+
+6.Retest
+
+   * The tester retests the application using the same test cases that originally failed.
+   * The purpose is to confirm that the defect has been fixed successfully.
+   * The status becomes Retest while verification is in progress.
+
+7.Reopen
+
+   * If the tester finds that the defect still exists after retesting, the bug is Reopened.
+   * The defect again moves through the fixing cycle.
+
+8.Verified 
+
+   * If the tester confirms that the defect has been completely fixed and no longer exists, the status becomes Verified.
+   * This indicates that the solution provided by the developer is correct.
+
+9.Closed
+
+   * This is the final stage of the defect life cycle.
+   * Once the tester verifies that the defect is resolved and no further action is required, the defect is marked as Closed.
+   * The defect life cycle ends at this stage.
