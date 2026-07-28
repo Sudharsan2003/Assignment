@@ -1,0 +1,13 @@
+1. Experience Based Testing Technique
+
+Experience based testing is a software testing technique in which test case or built using tester knowledge and previous experience instead of formal documentation.
+
+Techniques
+
+1.Error Guessing - Tester's intuition and experience predict the where the defects might occur in software.
+
+2.Exploratory Testing -> In exploratory testing the tester simultaneously learn about software, design test cases and executes them.
+
+3.Checklist based Testing -> Uses predefined checklists to ensure important scenarios are covered.
+
+4.Attack Testing -> Attack testing also known as negative testing or security testing, involves deliberately attempting to break the system by providing invalid inputs, exploiting vulnerabilities.
