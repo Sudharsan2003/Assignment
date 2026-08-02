@@ -1,0 +1,110 @@
+1. Test Metrices
+
+Test Metrics are quantitative measurements used to evaluate the effectiveness, quality, and progress of software testing. They help testers and managers understand whether testing is on track and whether the product is ready for release. Test metrics support decision-making, improve testing efficiency, and help identify risks early in the software development lifecycle.
+
+Key Aspects of Test Metrics
+
+Quantifiable Data -> Converts testing activities into numerical values for analysis.
+
+Purpose -> Measures testing effectiveness, product quality, and project progress.
+
+Scope -> Applicable throughout the Software Development Life Cycle (SDLC).
+
+Reporting -> Helps communicate testing status and quality to stakeholders.
+
+Types of Test Metrics
+
+Defect Metrics -> Measure no of severity of defect in software application
+
+Defect Density -> Measure no of defect per unit code
+
+Defect Leakage -> No found defect while testing after release the user found the defect
+
+Test Coverage Metrics -> Measure no of testing covered on functionality of software
+
+Test Execution Metrices -> Measure no of test executed based on test plan
+
+Test Effort Metrices -> Measure the resources, time
+
+Test Cost -> How much money spend for executeing the single test case
+
+Categories of Software Testing Metrics
+
+Process Metrices -> Measure the effectiveness of the testing process.
+
+Product Metrices -> Measure product size, quality, complexity, and performance.
+
+Project Metrices -> Measure project cost, productivity, resources, and deliverables.
+
+Common Test Metric Formulas
+
+Percentage of Test Cases Executed = (Executed Test Cases / Total Test Cases) × 100
+
+Test Case Effectiveness = (Defects Detected / Test Cases Run) × 100
+
+Passed Test Cases Percentage = (Passed Test Cases / Executed Test Cases) × 100
+
+Failed Test Cases Percentage = (Failed Test Cases / Executed Test Cases) × 100
+
+Blocked Test Cases Percentage =(Blocked Test Cases / Executed Test Cases) x 100
+
+2.Agile Testing
+
+Agile Testing is a software testing approach that follows Agile software development principles. It emphasizes continuous testing, close collaboration, and frequent software releases. Testing starts early and continues throughout development, making quality the responsibility of the entire team.
+
+Features of Agile Testing
+
+Testing begins early and continues throughout development.
+
+Continuous feedback improves product quality.
+
+Customer satisfaction is the primary goal.
+
+Developers and testers work together.
+
+Supports frequent software releases.
+
+Agile Testing Methodologies
+
+Test-Driven Development (TDD) -> Tests are written before the code to ensure each feature works correctly.
+
+Behavior-Driven Development (BDD) -> Focuses on testing software based on user behavior through collaboration between developers, testers, and customers.
+
+Extreme Programming (XP) -> An Agile method that emphasizes customer involvement
+
+Session-Based Testing -> Testing is performed in structured, time-limited sessions
+
+Crystal Methodologies -> An Agile approach that focuses on people, communication, and flexibility
+
+Scrum in Agile Testing
+
+Scrum is an Agile framework that supports iterative development and collaboration.
+
+Sprint -> Duration for task
+
+Daily Scrum -> Daily task update and what did yesterday 
+
+Sprint Review -> Get Feedback from Stakeholders
+
+Sprint Retrospective -> What went well and What could be improve
+
+Kanban in Agile Testing 
+
+Kanban is an Agile methodology that visually manages workflow using boards and task cards. 
+
+It focuses on continuous delivery, limits work in progress, and allows changes at any time.
+
+Benefits And Importance Of Agile Testing
+
+Benefits of Agile Testing
+
+Saves time and cost
+
+Reduces documentation
+
+Improves software quality
+
+Increases efficiency
+
+Provides continuous customer feedback
+
